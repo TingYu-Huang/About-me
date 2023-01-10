@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.783ff4b2.css",
+    "main.js": "/static/js/main.b77231e3.js",
+    "static/media/revicons.eot": "/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/react.svg": "/static/media/react.fdd3331d261ad6d5e1c92448737aa2aa.svg",
+    "static/media/revicons.woff": "/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/curriculum-portfolio.svg": "/static/media/curriculum-portfolio.0fed6a43bbf775e9f60c886af193e64f.svg",
+    "static/media/fish.svg": "/static/media/fish.db5ec97a012c45f6db1fe7a73306c694.svg",
+    "static/media/jquery.svg": "/static/media/jquery.c416a34d9457334cfa297652a4adeded.svg",
+    "static/media/oracle.svg": "/static/media/oracle.92e82f9554a08a7ac37655374c8b78e0.svg",
+    "static/media/typescript.svg": "/static/media/typescript.17d5e87eac2c9d1dc722ce1e0b60d5df.svg",
+    "static/media/dot-net.svg": "/static/media/dot-net.cc82afd46e9ec8edac36cf26bd825a2e.svg",
+    "index.html": "/index.html",
+    "static/media/c-sharp.svg": "/static/media/c-sharp.da77000fa7685de8a363ea71c31c3f03.svg",
+    "main.783ff4b2.css.map": "/static/css/main.783ff4b2.css.map",
+    "main.b77231e3.js.map": "/static/js/main.b77231e3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.783ff4b2.css",
+    "static/js/main.b77231e3.js"
+  ]
+}
